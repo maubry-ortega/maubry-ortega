@@ -59,7 +59,7 @@ Busco colaborar en proyectos:
 
 ### 📬 Contacto
 - ✉️ **Correo:** [ortegamaubry@gmail.com](mailto:ortegamaubry@gmail.com)  
-- 💼 **LinkedIn:** [https://n9.cl/rsnme](https://n9.cl/rsnme)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/maubry-yadid-ortega-sanchez-090a0438a/](https://www.linkedin.com/in/maubry-yadid-ortega-sanchez-090a0438a/)  
 - 🧠 **GitHub:** [@maubry-ortega](https://github.com/maubry-ortega)  
 - 📍 **Ubicación:** Popayán, Colombia  
 
