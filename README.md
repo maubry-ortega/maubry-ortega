@@ -55,7 +55,6 @@ Me apasiona la tecnología, el aprendizaje constante y la creación de solucione
 
 ### 📬 Contacto
 - ✉️ **Correo:** [ortegamaubry@gmail.com](mailto:ortegamaubry@gmail.com)  
-- 💼 **LinkedIn:** [www.linkedin.com/in/maubry-ortega](www.linkedin.com/in/maubry-ortega)  
 - 🧠 **GitHub:** [@maubry-ortega](https://github.com/maubry-ortega)  
 - 📍 **Ubicación:** Popayán, Colombia  
 
