@@ -1,113 +1,78 @@
-# Maubry Yadid Ortega Sánchez
+## 👋 ¡Hola, soy **Maubry Yadid Ortega Sánchez**!
 
-**Desarrollador de Software | Full Stack**
-
-Tecnólogo en Análisis y Desarrollo de Software en formación, con experiencia práctica en el desarrollo de aplicaciones web, móviles y soluciones empresariales.
-
-Me interesa especialmente el desarrollo backend, las APIs, las bases de datos y la construcción de sistemas modulares, mantenibles y escalables.
-
-Actualmente estoy trabajando en proyectos propios orientados a soluciones empresariales y profundizando en arquitectura de software, backend y buenas prácticas de desarrollo.
+💻 **Desarrollador de software full stack en formación**, con más de un año de experiencia en proyectos personales de **backend, frontend y mobile**.  
+Me apasiona la tecnología, el aprendizaje constante y la creación de soluciones que combinan rendimiento, diseño y escalabilidad.
 
 ---
 
-## Tecnologías
+### 🚀 Tecnologías que uso
 
-### Backend
-
-* Go
-* Node.js / Express
-* Python / Django
-* Python / Flask
-* APIs REST
-
-### Frontend
-
-* React
-* TypeScript
-* JavaScript
-* HTML / CSS
-* Tailwind CSS
-
-### Mobile
-
-* Ionic
-* React
-* Capacitor
-* Flutter / Dart
-
-### Bases de datos
-
-* PostgreSQL
-* MySQL / MariaDB
-* Firebird
-* MongoDB
-* Redis
-
-### Herramientas e infraestructura
-
-* Git / GitHub
-* Docker
-* Podman
-* Linux
-* Windows Server
-* Proxmox
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,python,dart,rust,java,nodejs,express,nestjs,flask,django,react,angular,vue,flutter,mongodb,postgresql,mysql,firebase,html,css,tailwind,git,docker,vscode,figma)](https://skillicons.dev)
 
 ---
 
-## Proyectos destacados
+### 🧠 Sobre mí
 
-### TOPYX
-
-ERP modular orientado a la gestión de empresas, sucursales, inventario y otros procesos empresariales.
-
-**Tecnologías:** Go, PostgreSQL, Redis, REST API, Podman.
-
-Proyecto enfocado en arquitectura modular, escalabilidad y separación de responsabilidades.
-
-### CLDARP
-
-Aplicación móvil para la gestión y control de procesos de limpieza y desinfección.
-
-**Tecnologías:** Ionic, React, TypeScript, Capacitor, Node.js, Prisma y MariaDB.
-
-Proyecto desarrollado con enfoque en aplicaciones empresariales y funcionamiento sobre dispositivos móviles.
+- 🧩 Me encanta estructurar sistemas bien tipados, modulares y mantenibles.  
+- 📚 Aplico **buenas prácticas de programación**, patrones de diseño y documentación clara.  
+- 🧠 Estoy aprendiendo **arquitecturas limpias (Clean Architecture)**, **DevOps**, y **Rust** para mejorar el rendimiento y la seguridad en backend.  
+- 🚀 Mi objetivo es convertirme en un **desarrollador full stack sólido**, capaz de construir soluciones escalables con una excelente experiencia de usuario.
 
 ---
 
-## Experiencia
+### 🧩 Experiencia técnica
 
-He participado en proyectos de desarrollo de software y entornos empresariales, trabajando con:
+#### 💻 Backend
+- **Node.js** → Express, NestJS  
+- **Python** → Flask, Django  
 
-* Desarrollo frontend y backend.
-* Diseño e integración de APIs.
-* Bases de datos SQL.
-* Aplicaciones móviles.
-* Control de versiones con Git.
-* Documentación técnica.
-* Soporte y resolución de problemas tecnológicos.
-* Administración básica de servidores e infraestructura.
+#### 🎨 Frontend
+- **React.js**, **Angular**, **Vue.js**
 
----
+#### 📱 Móvil
+- **Flutter (Dart)**  
 
-## Actualmente aprendiendo
-
-* Arquitectura de software.
-* Diseño de APIs.
-* Testing y calidad de software.
-* CI/CD.
-* Contenedores y despliegue.
-* Backend con Go.
-* PostgreSQL y optimización de bases de datos.
+#### 🗄️ Bases de datos
+- **Relacionales:** PostgreSQL, MySQL  
+- **No relacionales:** MongoDB, Firebase  
 
 ---
 
-## Contacto
-
-* Email: [ortegamaubry@gmail.com](mailto:ortegamaubry@gmail.com)
-* LinkedIn: [maubry-ortega](https://www.linkedin.com/in/maubry-ortega)
-* GitHub: [@maubry-ortega](https://github.com/maubry-ortega)
-* Ubicación: Cali, Colombia
+### 🌱 Actualmente aprendiendo
+- Tipado avanzado con **TypeScript**  
+- Optimización de rendimiento en **Rust**  
+- Integración de **Docker** y despliegue CI/CD  
+- Diseño de APIs limpias y seguras  
 
 ---
 
-> Construyendo software, aprendiendo continuamente y convirtiendo problemas reales en soluciones.
+### 🤝 Busco colaborar en
+- Proyectos **Open Source** en JavaScript, Python o Flutter  
+- Frameworks educativos y herramientas para desarrolladores  
+- Aplicaciones backend escalables y bien documentadas  
+
+---
+
+### 📬 Contacto
+- ✉️ **Correo:** [ortegamaubry@gmail.com](mailto:ortegamaubry@gmail.com)  
+- 🧠 **GitHub:** [@maubry-ortega](https://github.com/maubry-ortega)  
+- 📍 **Ubicación:** Popayán, Colombia  
+
+---
+
+### ⚡ Datos curiosos
+- Analizo frameworks como **Express**, **FastAPI**, **NestJS** y **Flask** para aprender de sus arquitecturas.  
+- Disfruto experimentar con sistemas de tipos, monadas y patrones funcionales.  
+- Puedo pasar horas programando o depurando sin perder la motivación.  
+
+---
+
+### 📊 Mis estadísticas de GitHub
+
+![Maubry's GitHub stats](https://github-readme-stats.vercel.app/api?username=maubry-ortega&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maubry-ortega&layout=compact&theme=tokyonight)
+
+---
+
+> 💬 *“El código es una forma de arte. Cada línea puede ser una idea hecha realidad.”*  
+> — **Maubry Ortega**
